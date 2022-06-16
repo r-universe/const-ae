@@ -1,0 +1,21 @@
+[
+  {
+    "package": "ggsignif",
+    "oncran": true
+  },
+  {
+    "package": "ggupset",
+    "oncran": true
+  },
+  {
+    "package": "mixdir",
+    "oncran": true
+  },
+  {
+    "package": "tidygenomics",
+    "oncran": true
+  },
+  {
+    "package": "proDA"
+  }
+]

@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggsignif"]
+	path = ggsignif
+	url = https://github.com/const-ae/ggsignif
+	shallow = true
+	registered = true
+[submodule "ggupset"]
+	path = ggupset
+	url = https://github.com/const-ae/ggupset
+	shallow = true
+	registered = true
+[submodule "mixdir"]
+	path = mixdir
+	url = https://github.com/const-ae/mixdir
+	shallow = true
+	registered = true
+[submodule "tidygenomics"]
+	path = tidygenomics
+	url = https://github.com/const-ae/tidygenomics
+	shallow = true
+	registered = true
+[submodule "proDA"]
+	path = proDA
+	url = https://github.com/const-ae/proda
+	shallow = true
+	registered = true
