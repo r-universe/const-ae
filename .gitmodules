@@ -23,8 +23,3 @@
 	url = https://github.com/const-ae/tidygenomics
 	shallow = true
 	registered = true
-[submodule "proDA"]
-	path = proDA
-	url = https://github.com/const-ae/proda
-	shallow = true
-	registered = true
