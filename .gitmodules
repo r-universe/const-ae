@@ -23,8 +23,18 @@
 	url = https://github.com/const-ae/tidygenomics
 	shallow = true
 	registered = true
+[submodule "glmGamPoi"]
+	path = glmGamPoi
+	url = https://github.com/const-ae/glmgampoi
+	shallow = true
+	registered = true
 [submodule "proDA"]
 	path = proDA
 	url = https://github.com/const-ae/proda
+	shallow = true
+	registered = true
+[submodule "sparseMatrixStats"]
+	path = sparseMatrixStats
+	url = https://github.com/const-ae/sparsematrixstats
 	shallow = true
 	registered = true
