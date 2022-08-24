@@ -38,3 +38,8 @@
 	url = https://github.com/const-ae/sparsematrixstats
 	shallow = true
 	registered = true
+[submodule "transformGamPoi"]
+	path = transformGamPoi
+	url = https://github.com/const-ae/transformgampoi
+	shallow = true
+	registered = true
