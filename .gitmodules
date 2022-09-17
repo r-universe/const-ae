@@ -33,11 +33,6 @@
 	url = https://github.com/const-ae/proda
 	shallow = true
 	registered = true
-[submodule "sparseMatrixStats"]
-	path = sparseMatrixStats
-	url = https://github.com/const-ae/sparsematrixstats
-	shallow = true
-	registered = true
 [submodule "transformGamPoi"]
 	path = transformGamPoi
 	url = https://github.com/const-ae/transformgampoi

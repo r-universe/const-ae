@@ -22,9 +22,6 @@
     "package": "proDA"
   },
   {
-    "package": "sparseMatrixStats"
-  },
-  {
     "package": "transformGamPoi"
   }
 ]
