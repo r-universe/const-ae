@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "mixdir",
+    "oncran": true
+  },
+  {
     "package": "tidygenomics",
     "oncran": true
   },
@@ -19,5 +23,8 @@
   },
   {
     "package": "sparseMatrixStats"
+  },
+  {
+    "package": "transformGamPoi"
   }
 ]

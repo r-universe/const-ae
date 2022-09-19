@@ -13,6 +13,11 @@
 	url = https://github.com/const-ae/ggupset
 	shallow = true
 	registered = true
+[submodule "mixdir"]
+	path = mixdir
+	url = https://github.com/const-ae/mixdir
+	shallow = true
+	registered = true
 [submodule "tidygenomics"]
 	path = tidygenomics
 	url = https://github.com/const-ae/tidygenomics
@@ -31,5 +36,10 @@
 [submodule "sparseMatrixStats"]
 	path = sparseMatrixStats
 	url = https://github.com/const-ae/sparsematrixstats
+	shallow = true
+	registered = true
+[submodule "transformGamPoi"]
+	path = transformGamPoi
+	url = https://github.com/const-ae/transformgampoi
 	shallow = true
 	registered = true
