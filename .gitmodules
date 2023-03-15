@@ -3,19 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ggsignif"]
-	path = ggsignif
-	url = https://github.com/const-ae/ggsignif
-	shallow = true
-	registered = true
-[submodule "ggupset"]
-	path = ggupset
-	url = https://github.com/const-ae/ggupset
-	shallow = true
-	registered = true
-[submodule "mixdir"]
-	path = mixdir
-	url = https://github.com/const-ae/mixdir
+[submodule "sparseMatrixStats"]
+	path = sparseMatrixStats
+	url = https://github.com/const-ae/sparsematrixstats
 	shallow = true
 	registered = true
 [submodule "tidygenomics"]
@@ -23,23 +13,33 @@
 	url = https://github.com/const-ae/tidygenomics
 	shallow = true
 	registered = true
-[submodule "glmGamPoi"]
-	path = glmGamPoi
-	url = https://github.com/const-ae/glmgampoi
-	shallow = true
-	registered = true
 [submodule "proDA"]
 	path = proDA
 	url = https://github.com/const-ae/proda
 	shallow = true
 	registered = true
-[submodule "sparseMatrixStats"]
-	path = sparseMatrixStats
-	url = https://github.com/const-ae/sparsematrixstats
+[submodule "ggupset"]
+	path = ggupset
+	url = https://github.com/const-ae/ggupset
+	shallow = true
+	registered = true
+[submodule "ggsignif"]
+	path = ggsignif
+	url = https://github.com/const-ae/ggsignif
 	shallow = true
 	registered = true
 [submodule "transformGamPoi"]
 	path = transformGamPoi
 	url = https://github.com/const-ae/transformgampoi
+	shallow = true
+	registered = true
+[submodule "mixdir"]
+	path = mixdir
+	url = https://github.com/const-ae/mixdir
+	shallow = true
+	registered = true
+[submodule "glmGamPoi"]
+	path = glmGamPoi
+	url = https://github.com/const-ae/glmgampoi
 	shallow = true
 	registered = true

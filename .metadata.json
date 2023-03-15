@@ -1,30 +1,30 @@
 [
   {
-    "package": "ggsignif",
-    "oncran": true
-  },
-  {
-    "package": "ggupset",
-    "oncran": true
-  },
-  {
-    "package": "mixdir",
-    "oncran": true
+    "package": "sparseMatrixStats"
   },
   {
     "package": "tidygenomics",
     "oncran": true
   },
   {
-    "package": "glmGamPoi"
-  },
-  {
     "package": "proDA"
   },
   {
-    "package": "sparseMatrixStats"
+    "package": "ggupset",
+    "oncran": true
+  },
+  {
+    "package": "ggsignif",
+    "oncran": true
   },
   {
     "package": "transformGamPoi"
+  },
+  {
+    "package": "mixdir",
+    "oncran": true
+  },
+  {
+    "package": "glmGamPoi"
   }
 ]
