@@ -1,5 +1,9 @@
 [
   {
+    "package": "einsum",
+    "oncran": true
+  },
+  {
     "package": "ggsignif",
     "oncran": true
   },
