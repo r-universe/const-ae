@@ -1,5 +1,23 @@
 [
   {
+    "package": "ggsignif",
+    "oncran": true
+  },
+  {
+    "package": "ggupset",
+    "oncran": true
+  },
+  {
+    "package": "glmGamPoi"
+  },
+  {
+    "package": "mixdir",
+    "oncran": true
+  },
+  {
+    "package": "proDA"
+  },
+  {
     "package": "sparseMatrixStats"
   },
   {
@@ -7,24 +25,6 @@
     "oncran": true
   },
   {
-    "package": "proDA"
-  },
-  {
-    "package": "ggupset",
-    "oncran": true
-  },
-  {
-    "package": "ggsignif",
-    "oncran": true
-  },
-  {
     "package": "transformGamPoi"
-  },
-  {
-    "package": "mixdir",
-    "oncran": true
-  },
-  {
-    "package": "glmGamPoi"
   }
 ]
