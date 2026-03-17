@@ -14,6 +14,3 @@
 [submodule "mixdir"]
 	path = mixdir
 	url = https://github.com/const-ae/mixdir
-[submodule "tidygenomics"]
-	path = tidygenomics
-	url = https://github.com/const-ae/tidygenomics
